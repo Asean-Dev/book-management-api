@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../prisma/seed/data/index.ts"],"names":[],"mappings":";;;AAAa,QAAA,cAAc,GAAG;IAC5B;QACE,KAAK,EAAE,kBAAkB;QACzB,MAAM,EAAE,qBAAqB;QAC7B,aAAa,EAAE,IAAI;QACnB,KAAK,EAAE,SAAS;KACjB;CACF,CAAC"}
