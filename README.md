@@ -19,7 +19,11 @@
 npm install
 ```
 
-### 2. ทำ .env
+### 2.run สร้าง docker เเละ database เเละ ทำ .env
+
+```
+docker-compose up -d
+```
 
 ```
 #หรือ Local
